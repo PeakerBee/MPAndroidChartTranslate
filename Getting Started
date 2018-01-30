@@ -13,4 +13,6 @@
   And then retrieve it from your Activity, Fragment or whatever:
   然后可以在Activity 和Fragment或这是其他父控价中国呢获取，如下：
     // 在这个例子中, 一个 LineChart 被从XML文件初始化。
-    LineChart chart = (LineChart) findViewById(R.id.chart);      
+    LineChart chart = (LineChart) findViewById(R.id.chart); 
+  我们也可以直接在Code中新建，并添加到布局中，
+  
